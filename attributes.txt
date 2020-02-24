@@ -1,0 +1,32 @@
+Attr1: Age
+	1. 26-35 	2. 36-45 	3. 46-55
+Attr2: Gender
+	1.Male	2.Female
+Attr3: Location of disease	
+	1.Left	2.Right
+Attr4: Type of mandibular third molar
+	1.Complete eruption	2.Partial eruption	3.Complete mucosal impaction	4.Bone impaction	0.N/A
+Attr5: Inclination of the third maxillary molar
+	1.≤30°		2.30°-60°		3.≥60°		0.N/A
+Attr6: Slope of the posterior molar pad
+	1.90°-120°	2.120°-150°	3.150°-180°	
+Attr7: Height type of the posterior cushion of the molar
+	1.High	2.Middle	3.Low	0.N/A
+Attr8: Whether the root of the third molar is deformed abnormally
+	1.No	2.Yes in upper root		3.Yes in lower root		0.N/A
+Attr9: "Positional relationship between the third molar and the mandibular neural tube"
+	1.No contact    2.Only contact between the root and the superior wall of the inferior alveolar canal    3.Between the root and the inferior wall of  the inferior alveolar canall    0.N/A
+Attr10: Ratio of the crown and root of the third mandibular molar
+	1.≥2:1		2.2:1-1:1		3.≤1:1		0.N/A
+Attr11: "Whether the lesions of the third molar cause damage to adjacent teeth"
+	1.Yes	2.No	0.N/A
+Attr12: Treatment strategy
+	1.Extracting upper third molar    2.Extracting lower third molar    3.Extracting both third molars    4.Extracting upper third molar+pericoronal rinsing    5.Only pericoronal rinsing
+Attr13: Visit month
+	1.Feb. - May	2.May- July	3.July-Oct.	4.Oct. - Jan.(2019)
+Attr14: Mandibular third molar eruption direction
+	1.Mesial	2.Distal	3.Horizontal	4.Vertical	5.Inverted	0.N/A
+Attr15: Location relationship between the third molar and adjacent tooth
+	1.High	2.Middle	3.Low	0.N/A
+result: 
+	1.Good	2.General	    3.Obvious     4.Terrible
